@@ -1,0 +1,14 @@
+
+
+.imageProfile{
+  background-image: url('./assets/chat-app-asset/bg-image2.jpg');
+ height: 700px;
+ margin-top: -40px;
+ opacity :0.5;
+}
+
+.PhoneInputInput{
+  height: 50px;
+ 
+}
+
